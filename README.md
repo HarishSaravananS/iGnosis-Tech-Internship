@@ -49,5 +49,20 @@ We analyze how customers distribute across **Budget, Mainstream, and Premium** c
 - **Union of both groups still sees Budget as the largest category, but Premium is higher than Mainstream, suggesting high-spending customers are consistent buyers**.  
 
 ---
+These are the **Top 10 Most Profitable Products**, ranked by total sales revenue. Here's what we can analyze from this data:  
 
+### **🛒 Key Observations:**  
+1. **Dorito Corn Chip Supreme 380g** is the most profitable product, generating **$40,352** in total sales and selling **6,509 units**.  
+2. **Smiths Crinkle Chip Original Big Bag 380g** and **Smiths Crinkle Chips Salt & Vinegar 330g** follow closely, both selling over **6,000 units**.  
+3. **Kettle Mozzarella Basil & Pesto 175g** is a high-profit product despite being a **175g pack**, showing its price per unit is higher.  
+4. **Cheezels Cheese 330g** and **Doritos Cheese Supreme 330g** are also among the most profitable, indicating strong demand for larger-sized snack packs.  
+5. **Kettle-branded products** appear multiple times in the list, meaning this brand has consistent profitability across multiple flavors.  
+
+---
+
+### **📊 Business Insights:**  
+✅ **Larger pack sizes (330g - 380g) tend to generate more revenue**, suggesting consumers prefer buying in bulk.  
+✅ **Doritos, Smiths, Cheezels, and Kettle dominate the top ranks**, meaning they are the most profitable brands.  
+✅ **Kettle’s multiple appearances indicate a strong customer preference for premium chips**, so promotions on these products could boost revenue further.  
+✅ **Marketing campaigns should focus on these high-profit products**, ensuring they remain well-stocked and visible to customers.  
 
