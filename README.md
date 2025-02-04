@@ -50,32 +50,4 @@ We analyze how customers distribute across **Budget, Mainstream, and Premium** c
 
 ---
 
-## **📌 Key Behavioral Insights**
-### **1️⃣ High Sales Come from Family-Oriented Customers**
-- **Older & Young Families** are the **primary revenue drivers**, making frequent and high-value purchases.  
-- **Older Singles/Couples** are also important but slightly lower in representation.  
-
-### **2️⃣ Budget Shoppers Drive Volume, Premium Shoppers Drive Revenue**
-- Most **frequent buyers are Budget customers**, but **Premium customers significantly contribute to total sales**.  
-- This indicates a mix of **frequent small-value purchases** (Budget) and **less frequent but high-value transactions** (Premium).  
-
-### **3️⃣ Union of Both Groups Shows Strong Purchase Consistency**
-- Even in the **combined group**, **Older Families and Young Families remain the most significant**.  
-- **Premium customers remain an important segment despite being lower in number**.  
-
----
-
-## **🔍 Next Steps & Recommendations**
-1️⃣ **Target Family-Oriented Shoppers**  
-   - Offer **personalized promotions & loyalty rewards** to **Older Families & Young Families**.  
-   - Introduce **bulk-buy discounts & combo deals** to encourage higher spending.  
-
-2️⃣ **Enhance Premium Customer Engagement**  
-   - Since Premium customers drive **high-value sales**, introduce **exclusive offers, early access to new products, or premium membership perks**.  
-
-3️⃣ **Differentiate Strategies for Budget vs. Premium Customers**  
-   - **Budget shoppers:** Focus on **discount-based promotions** and **frequent purchase incentives**.  
-   - **Premium shoppers:** Offer **personalized recommendations** & **limited edition products**.  
-
----
 
