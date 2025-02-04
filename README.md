@@ -4,7 +4,7 @@ Here’s a detailed **analysis report** based on the **top purchasing customers*
 
 ---
 
-# **🔍 Customer Purchase Behavior Analysis Report**  
+# **🔍 Customer Purchase Behavior Analysis Report**  **FOR TOP 200 ONLY**
 
 ### **📌 Objective**  
 This analysis aims to understand the **purchase behavior** of the top customers, considering both:  
@@ -14,7 +14,7 @@ This analysis aims to understand the **purchase behavior** of the top customers,
 
 ---
 
-## **1️⃣ Lifestage Distribution**  **FOR TOP 200 ONLY**
+## **1️⃣ Lifestage Distribution**  
 We analyze the **lifestage categories** of top customers across all groups.  
 
 | **Category**                  | **Top Buying Customers** | **Most Frequent Customers** | **Union of Both** |
