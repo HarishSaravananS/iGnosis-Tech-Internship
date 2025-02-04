@@ -14,7 +14,7 @@ This analysis aims to understand the **purchase behavior** of the top customers,
 
 ---
 
-## **1️⃣ Lifestage Distribution**  
+## **1️⃣ Lifestage Distribution**  **FOR TOP 200 ONLY**
 We analyze the **lifestage categories** of top customers across all groups.  
 
 | **Category**                  | **Top Buying Customers** | **Most Frequent Customers** | **Union of Both** |
