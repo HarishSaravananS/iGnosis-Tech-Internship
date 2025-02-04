@@ -49,7 +49,7 @@ We analyze how customers distribute across **Budget, Mainstream, and Premium** c
 - **Union of both groups still sees Budget as the largest category, but Premium is higher than Mainstream, suggesting high-spending customers are consistent buyers**.  
 
 ---
-These are the **Top 10 Most Profitable Products**, ranked by total sales revenue. Here's what we can analyze from this data:  
+These are the **Top 05 Most Profitable Products**, ranked by total sales revenue. Here's what we can analyze from this data:  
 
 ### **🛒 Key Observations:**  
 1. **Dorito Corn Chip Supreme 380g** is the most profitable product, generating **$40,352** in total sales and selling **6,509 units**.  
